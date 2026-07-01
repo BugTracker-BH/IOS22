@@ -1,0 +1,9 @@
+Package: com.chipsahoy.disablewebviewstrongpassword
+Name: DisableWebViewStrongPassword
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Disables automatic "Strong Password" autofill suggestions in WKWebView system-wide.
+Maintainer: ChipsAhoy
+Author: ChipsAhoy
+Section: Tweaks
+Depends: mobilesubstrate
